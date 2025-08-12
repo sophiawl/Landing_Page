@@ -1,0 +1,20 @@
+header{
+    background-color: blueviolet;
+}
+
+#produtos{
+    background-color: cornflowerblue;
+    height: 700px;
+}
+#parceiros{
+    background-color: aquamarine;
+    height: 700px;
+}
+#historia{
+    background-color: deeppink;
+    height: 700px;
+}
+#cadastro{
+    background-color: fuchsia;
+    height: 700px;
+}
